@@ -1,0 +1,48 @@
+/* --- 2.1 Thijs Sans --- */
+
+@font-face {
+  font-family: "Thijs Sans";
+  src: url("../fonts/BrandonTextWeb-Regular.eot");
+  src:
+    url("../fonts/BrandonTextWeb-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/BrandonTextWeb-Regular.woff2") format("woff2"),
+    url("../fonts/BrandonTextWeb-Regular.woff") format("woff"),
+    url("../fonts/BrandonTextWeb-Regular.ttf") format("truetype"),
+    url("../fonts/BrandonTextWeb-Regular.svg#BrandonTextWeb-Regular")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- 2.2 Thijs Titel --- */
+
+@font-face {
+  font-family: "Thijs Titel";
+  src: url("../fonts/Scorekard-Bold.otf");
+  src:
+    url("../fonts/Scorekard-Bold.woff2") format("woff2"),
+    url("../fonts/Scorekard-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- 2.3Thijs Mono --- */
+
+@font-face {
+  font-family: "Thijs Mono";
+  src: url("../fonts/JetBrainsMono-Regular.eot");
+  src:
+    url("../fonts/JetBrainsMono-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/JetBrainsMono-Regular.woff2") format("woff2"),
+    url("../fonts/JetBrainsMono-Regular.woff") format("woff"),
+    url("../fonts/JetBrainsMono-Regular.ttf") format("truetype"),
+    url("../fonts/JetBrainsMono-Regular.svg#JetBrainsMono-Regular")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

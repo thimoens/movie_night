@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp-copy": "^5.0.0",
+    "gulp-notify": "^5.0.0",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.89.2",
+    "webpack": "^5.99.9",
+    "webpack-stream": "^7.0.0"
+  },
+  "dependencies": {
+    "gulp": "^5.0.1"
+  }
+}

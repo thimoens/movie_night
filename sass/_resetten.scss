@@ -1,0 +1,86 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+address,
+big,
+cite,
+code,
+em,
+font,
+img,
+small,
+strike,
+sub,
+sup,
+li,
+ol,
+ul,
+fieldset,
+form,
+label,
+legend,
+button,
+table,
+caption,
+tr,
+th,
+td {
+  border: 0;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+blockquote:before,
+blockquote:after {
+  content: "";
+}
+
+a {
+  outline: none;
+}
+
+input[type="search"] {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}
+
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  display: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+small {
+  font-size: $lettertype-kleiner;
+}
+
+ins {
+  text-decoration-line: none;
+}

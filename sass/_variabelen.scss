@@ -1,0 +1,118 @@
+// Lettertypes
+$mono:
+  "Thijs Mono", "Shentox", "Consolas", "Courier", "Liberation Mono",
+  "Inconsolata";
+$sans:
+  "Thijs Sans",
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  Roboto,
+  Oxygen-Sans,
+  Ubuntu,
+  Cantarell,
+  Helvetica Neue,
+  Helvetica,
+  Verdana,
+  Arial,
+  sans-serif;
+$titel:
+  "Thijs Titel",
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  Roboto,
+  Oxygen-Sans,
+  Ubuntu,
+  Cantarell,
+  Helvetica Neue,
+  Helvetica,
+  Verdana,
+  Arial,
+  sans-serif;
+
+// Iconen en tekeningen
+$icoon-normaal: "Font Awesome 6 Pro";
+$icoon-reclame: "Font Awesome 6 Brands";
+$icoon-duotone: "Font Awesome 6 Duotone";
+
+// Kleuren
+$accent: #ff5f39;
+$accent2: #deae6c;
+$text: #ffefcb;
+$bg: #2c2b27;
+
+// Knoppen
+$rand-ronding: 5px;
+$rand-ronding-blokken: 50px;
+$rand-dikte: 2px;
+$knop-rand-ronding: 50%;
+$knop-achtergrond: transparent;
+
+// Grootte
+$lettertype-groot: 2.5rem;
+$lettertype-menu: 2.3rem;
+$lettertype-body: 2.1rem;
+$lettertype-artikel-body: 2.1rem;
+$lettertype-artikel-body-ipad: 1.9rem;
+$lettertype-artikel-body-iphone: 1.8rem;
+$lettertype-klein: 1.8rem;
+$lettertype-kleiner: 1.55rem;
+$lijnhoogte-body: 1.8em;
+$lijnhoogte-artikel: 1.9em;
+$lijnhoogte-titel: 1.2em;
+$lijnhoogte-klein: 1.6em;
+
+// Dikte
+$dikte-titels: bold;
+$dikte-tekst: normal;
+
+// Scherm formaten
+$scherm-xs: 360px;
+$scherm-sm: 821px;
+$scherm-md: 1024px;
+$scherm-lg: 1200px;
+$scherm-ml: 1350px;
+$scherm-xl: 1600px;
+$scherm-ul: 1900px;
+$scherm-mobiel: 480px;
+$scherm-tablet: 821px;
+$scherm-desktop: 1024px;
+$scherm-ipad-pro: 1024px;
+
+// $scherm-xs-min: $scherm-xs;
+// $scherm-xs-max: ($scherm-sm - 1);
+// $scherm-sm-min: $scherm-sm;
+// $scherm-sm-max: ($scherm-md - 1);
+// $scherm-md-min: $scherm-md;
+// $scherm-md-max: ($scherm-lg - 1);
+// $scherm-lg-min: $scherm-lg;
+// $scherm-lg-max: ($scherm-ml - 1);
+// $scherm-ml-min: $scherm-ml;
+// $scherm-ml-max: ($scherm-xl - 1);
+// $scherm-xl-min: $scherm-xl;
+// $scherm-xl-max: ($scherm-ul - 1);
+// $scherm-ul-min: $scherm-ul;
+
+// /* Screen sizes */
+// $screen-xs: 360px;
+// $screen-sm: 768px;
+// $screen-md: 1024px;
+// $screen-lg: 1200px;
+// $screen-ml: 1350px;
+// $screen-xl: 1600px;
+// $screen-ul: 1900px;
+
+// $screen-xs-min: $screen-xs;
+// $screen-xs-max: ($screen-sm - 1);
+// $screen-sm-min: $screen-sm;
+// $screen-sm-max: ($screen-md - 1);
+// $screen-md-min: $screen-md;
+// $screen-md-max: ($screen-lg - 1);
+// $screen-lg-min: $screen-lg;
+// $screen-lg-max: ($screen-ml - 1);
+// $screen-ml-min: $screen-ml;
+// $screen-ml-max: ($screen-xl - 1);
+// $screen-xl-min: $screen-xl;
+// $screen-xl-max: ($screen-ul - 1);
+// $screen-ul-min: $screen-ul;
