@@ -1,18 +1,18 @@
-# Movie night
+# 🍿 Movie night
 
 If you’re anything like me, you’ll probably recognize that sometimes you spend so much time looking for a good movie or series that it’s almost time to go to bed. That’s why I thought it would be a fun idea to create a recommendation tool using AI.
 
 <br>
 
-<img src="https://github.com/thimoens/movie_night/raw/master/.github/screenshot1.png" alt="Screenshot 1" />
+<img src="https://github.com/thimoens/movie_night/assets/images/screenshot1.png" alt="Screenshot 1" />
 
 <br>
 
-<img src="https://github.com/thimoens/movie_night/raw/master/.github/screenshot2.png" alt="Screenshot 2" />
+<img src="https://github.com/thimoens/movie_night/assets/images/screenshot2.png" alt="Screenshot 2" />
 
 <br>
 
-<img src="https://github.com/thimoens/movie_night/raw/master/.github/screenshot3.png" alt="Screenshot 3" />
+<img src="https://github.com/thimoens/movie_night/assets/images/screenshot3.png" alt="Screenshot 3" />
 
 <br>
 
