@@ -4,15 +4,15 @@ If you’re anything like me, you’ll probably recognize that sometimes you spe
 
 <br>
 
-<img src="https://github.com/thimoens/movie_night/assets/images/screenshot1.png" alt="Screenshot 1" />
+<img src="https://github.com/thimoens/movie_night/blob/main/assets/images/screenshot1.png" alt="Screenshot 1" />
 
 <br>
 
-<img src="https://github.com/thimoens/movie_night/assets/images/screenshot2.png" alt="Screenshot 2" />
+<img src="https://github.com/thimoens/movie_night/blob/main/assets/images/screenshot2.png" alt="Screenshot 2" />
 
 <br>
 
-<img src="https://github.com/thimoens/movie_night/assets/images/screenshot3.png" alt="Screenshot 3" />
+<img src="https://github.com/thimoens/movie_night/blob/main/assets/images/screenshot3.png" alt="Screenshot 3" />
 
 <br>
 
